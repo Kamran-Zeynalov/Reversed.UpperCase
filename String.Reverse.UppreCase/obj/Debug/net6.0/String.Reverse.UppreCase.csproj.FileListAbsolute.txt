@@ -1,0 +1,15 @@
+C:\Users\kzeyn\source\repos\String.Reverse.UppreCase\String.Reverse.UppreCase\bin\Debug\net6.0\String.Reverse.UppreCase.exe
+C:\Users\kzeyn\source\repos\String.Reverse.UppreCase\String.Reverse.UppreCase\bin\Debug\net6.0\String.Reverse.UppreCase.deps.json
+C:\Users\kzeyn\source\repos\String.Reverse.UppreCase\String.Reverse.UppreCase\bin\Debug\net6.0\String.Reverse.UppreCase.runtimeconfig.json
+C:\Users\kzeyn\source\repos\String.Reverse.UppreCase\String.Reverse.UppreCase\bin\Debug\net6.0\String.Reverse.UppreCase.dll
+C:\Users\kzeyn\source\repos\String.Reverse.UppreCase\String.Reverse.UppreCase\bin\Debug\net6.0\String.Reverse.UppreCase.pdb
+C:\Users\kzeyn\source\repos\String.Reverse.UppreCase\String.Reverse.UppreCase\obj\Debug\net6.0\String.Reverse.UppreCase.csproj.AssemblyReference.cache
+C:\Users\kzeyn\source\repos\String.Reverse.UppreCase\String.Reverse.UppreCase\obj\Debug\net6.0\String.Reverse.UppreCase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kzeyn\source\repos\String.Reverse.UppreCase\String.Reverse.UppreCase\obj\Debug\net6.0\String.Reverse.UppreCase.AssemblyInfoInputs.cache
+C:\Users\kzeyn\source\repos\String.Reverse.UppreCase\String.Reverse.UppreCase\obj\Debug\net6.0\String.Reverse.UppreCase.AssemblyInfo.cs
+C:\Users\kzeyn\source\repos\String.Reverse.UppreCase\String.Reverse.UppreCase\obj\Debug\net6.0\String.Reverse.UppreCase.csproj.CoreCompileInputs.cache
+C:\Users\kzeyn\source\repos\String.Reverse.UppreCase\String.Reverse.UppreCase\obj\Debug\net6.0\String.Reverse.UppreCase.dll
+C:\Users\kzeyn\source\repos\String.Reverse.UppreCase\String.Reverse.UppreCase\obj\Debug\net6.0\refint\String.Reverse.UppreCase.dll
+C:\Users\kzeyn\source\repos\String.Reverse.UppreCase\String.Reverse.UppreCase\obj\Debug\net6.0\String.Reverse.UppreCase.pdb
+C:\Users\kzeyn\source\repos\String.Reverse.UppreCase\String.Reverse.UppreCase\obj\Debug\net6.0\String.Reverse.UppreCase.genruntimeconfig.cache
+C:\Users\kzeyn\source\repos\String.Reverse.UppreCase\String.Reverse.UppreCase\obj\Debug\net6.0\ref\String.Reverse.UppreCase.dll
